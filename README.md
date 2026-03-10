@@ -73,9 +73,3 @@ npm run dev
 ```
 
 Your app should now be running locally! Open your browser to the local Vite URL (typically `http://localhost:5177`) to see the Dashboard.
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check the issues page.
-
-## 📝 License
-This project is open-source and available under the MIT License.
